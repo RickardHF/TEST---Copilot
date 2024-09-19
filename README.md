@@ -1,5 +1,7 @@
 # React App Copilot Template
 
+This is a test
+
 This is a template application, featuring a simple react app with some tests. This can be used as a starting point for showcasing Copilot features on an existing repository.
 
 After creating a copy of this template you need to set up a couple of things
